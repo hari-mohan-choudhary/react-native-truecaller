@@ -1,0 +1,1 @@
+{"version":3,"file":"NativeTruecaller.d.ts","sourceRoot":"","sources":["../../../../src/NativeTruecaller.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,WAAW,EAAE,MAAM,cAAc,CAAC;AAGhD,MAAM,WAAW,IAAK,SAAQ,WAAW;IACvC,OAAO,IAAI,OAAO,CAAC,OAAO,CAAC,CAAC;IAC5B,YAAY,IAAI,OAAO,CAAC,GAAG,CAAC,CAAC;IAC7B,sBAAsB,IAAI,OAAO,CAAC,OAAO,CAAC,CAAC;IAC3C,QAAQ,IAAI,IAAI,CAAC;CAClB;;AAED,wBAAoE"}
