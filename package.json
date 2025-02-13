@@ -1,16 +1,23 @@
 {
-  "name": "react-native-truecaller",
-  "version": "0.0.0",
-  "description": "react native for truecaller",
-  "main": "./lib/commonjs/index.js",
+  "name": "rn-truecaller",
+  "version": "0.0.2",
+  "description": "rn-truecaller is a React Native package for integrating Truecaller login with the new architecture.",
+  "main": "./lib/module/NativeTruecaller.js",
   "codegenConfig": {
     "name": "RNTruecallerSpec",
     "type": "modules",
     "jsSrcsDir": "src"
   },
-  "author": " <> ()",
-  "license": "UNLICENSED",
-  "homepage": "#readme",
+  "author": {
+    "name": "Hari Mohan",
+    "username": "hari-mohan-choudhary"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/hari-mohan-choudhary/react-native-truecaller",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hari-mohan-choudhary/react-native-truecaller.git"
+  },
   "create-react-native-library": {
     "type": "turbo-module",
     "languages": "kotlin-objc",
@@ -41,6 +48,8 @@
   "files": [
     "src",
     "lib",
+    "android",
+    "ios",
     "!**/__tests__",
     "!**/__fixtures__",
     "!**/__mocks__"
