@@ -1,6 +1,6 @@
 {
   "name": "rn-truecaller",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "rn-truecaller is a React Native package for integrating Truecaller login with the new architecture.",
   "main": "./lib/module/NativeTruecaller.js",
   "codegenConfig": {
@@ -49,7 +49,7 @@
     "src",
     "lib",
     "android",
-    "ios",
+    "!ios",
     "!**/__tests__",
     "!**/__fixtures__",
     "!**/__mocks__"
